@@ -23,4 +23,4 @@
 <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=Tjdmin1" />
 
 # 
-<img src="https://thespot.kr/assets/images/kakaoImg.jpg"/>
+<img src="https://thespot.kr/assets/images/kakaoImg.jpg" width="250">
